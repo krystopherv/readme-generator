@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # readMe generator
 
@@ -37,3 +38,6 @@ For questions, contact me via GitHub or email:
 
 - GitHub: [krystopherv](https://github.com/krystopherv)
 - Email: krystopherherrera@gmail.com
+=======
+# readme-generator
+>>>>>>> b9871368f6e750333334f0e0b158bbe027e6361a
